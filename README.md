@@ -10,7 +10,9 @@
 ##### Project: Dashboard design for analytical platform
 
 
-![Screenshot 2024-07-03 114418](https://github.com/Gaumaa/CODTECH-INTERSHIP--Task-2/assets/169033000/2293448e-0e07-4ebd-b23b-6078cec35cc0)
+![Untitled](https://github.com/Gaumaa/CODTECH-INTERSHIP--Task-2/assets/169033000/0b7958a9-5bda-4391-afe0-7c2716f4297a)
+
+
 
 ##### Objective: Design a dashboard interface for an analytics platform that visualizes data insights and 
 key performance metrics 
