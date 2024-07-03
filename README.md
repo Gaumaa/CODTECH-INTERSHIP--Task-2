@@ -13,6 +13,6 @@
 ![Screenshot 2024-07-03 114418](https://github.com/Gaumaa/CODTECH-INTERSHIP--Task-2/assets/169033000/2293448e-0e07-4ebd-b23b-6078cec35cc0)
 
 ##### Objective: Design a dashboard interface for an analytics platform that visualizes data insights and 
-and key performance metrics 
+key performance metrics 
 
 ##### Technology used: Figma(tool for designer)
