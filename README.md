@@ -5,7 +5,7 @@
 ##### Duration: June to July, 2024 
 ##### Mentor: Neela Santosh Kumar
 
-### OVERVIEW OF THE PROJECT
+## OVERVIEW OF THE PROJECT
 
 Project: Dashboard design for analytical platform
 
